@@ -1,4 +1,4 @@
-## Sowhp工具前言
+## Weblens （网镜)工具前言
 
 本工具是[[Sowhp](https://github.com/sh1yan/Sowhp)的镜像工具，原工具为go环境下编写，我再此基础上优化了运行速度，以及美化输出。
 
